@@ -1,3 +1,7 @@
+2015-01-25
+	Extension moved to https://github.com/AOEpeople/lowlevel_scheduler_task
+	Please use from there!
+
 2009-10-28  Michael Klapper <michael.klapper@aoemedia.de>
 	* Add XML-file attachement to the sysLog report eMail
 	* Add range in hours to send sysLog entries 
